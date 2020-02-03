@@ -1,0 +1,26 @@
+---
+layout: main
+title:  "Database MySQL"
+---
+
+<table class="table-steel">
+<thead>
+<tr>
+<th>TOPIC</th>
+<th>HOURS</th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Course Intruction</td><td>3</td></tr>
+  <tr><td>Basic CRUD</td><td>4</td></tr>
+  <tr><td>Built-in Functions</td><td>4</td></tr><tr>
+  <td>Data Aggregation</td><td>4</td></tr><tr>
+  <td>Table Relations</td><td>4</td></tr><tr>
+  <td>Subqueries and JOINs</td><td>4</td></tr>
+  <tr><td>Database Programmability</td><td>4</td></tr>
+</tbody>
+</table>
+
+<div class="button-back">
+  <input type="button" value="Zurück" onclick="window.history.back()" /> 
+</div>

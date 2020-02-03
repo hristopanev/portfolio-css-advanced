@@ -1,0 +1,29 @@
+---
+layout: main
+title:  "HTML & CSS"
+---
+
+
+<table class="table-steel">
+<thead>
+<tr>
+<th>TOPIC</th>
+<th>HOURS</th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Course Intruction</td><td>3</td></tr>
+  <tr><td>CSS & Typography</td><td>4</td></tr>
+  <tr><td>CSS Box Model (non-attendance)</td><td>4</td></tr><tr>
+  <td>Position & Float</td><td>4</td></tr><tr>
+  <td>Flexbox</td><td>4</td></tr><tr>
+  <td>Working with Forms</td><td>4</td></tr>
+  <tr><td>Media Queries</td><td>4</td></tr>
+  <tr><td>Workshop</td><td>4</td></tr>
+  <tr><td>Design to Code - Demo Project</td><td>4</td></tr>
+</tbody>
+</table>
+
+<div class="button-back">
+  <input type="button" value="Zurück" onclick="window.history.back()" /> 
+</div>

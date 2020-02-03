@@ -1,0 +1,30 @@
+---
+layout: main
+title:  "Angular"
+---
+
+
+<table class="table-steel">
+<thead>
+<tr>
+<th>TOPIC</th>
+<th>HOURS</th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Course Intruction</td><td>3</td></tr>
+  <tr><td>Componets</td><td>4</td></tr>
+  <tr><td>DI, Intro to RxJS, Services</td><td>4</td></tr><tr>
+  <td>Workshop: Componets</td><td>4</td></tr><tr>
+  <td>Modules and Routing</td><td>4</td></tr><tr>
+  <td>Workshop: Modules and Routing</td><td>4</td></tr><tr>
+  <td>Forms</td><td>4</td></tr>
+  <tr><td>Workshop: Forms</td><td>4</td></tr>
+  <tr><td>Pipes, Interceptors and Subjects</td><td>4</td></tr>
+  <tr><td>Workshop: Pipes, Interceptors and Subjects</td><td>4</td></tr>
+  <tr><td>State Management</td><td>4</td></tr>
+</tbody>
+</table>
+<div class="button-back">
+  <input type="button" value="Zurück" onclick="window.history.back()" /> 
+</div>

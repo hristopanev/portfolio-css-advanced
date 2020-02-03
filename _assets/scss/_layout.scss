@@ -1,0 +1,70 @@
+.site {
+    /* max-width: var(--layout-main-width); */
+    margin: 0 auto;
+    /* padding: 2em; */
+}
+
+.background-img {
+    background-image: linear-gradient(rgba(232, 231, 240, 0.7), rgba(147, 146, 151, 0.7)), url('https://images.unsplash.com/photo-1563313285-4c1b4074b898?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80');
+    background-size: contain;
+    display: flex;
+    padding: 3rem;
+    /* background-position: 50% -444px;
+    background-size: 1900px; */
+    transform: scale(1, 1);
+    text-align: center;
+}
+
+.background-img h1 {
+    display: block;
+    margin: 0 auto;
+    color: rgb(39, 26, 41);
+    font-family: unset;
+    font-variant-caps: unset;
+    font-size: 80px;
+
+}
+
+.site-footer {
+    /* background: #49465e; */
+    background: #C5D0CC;
+    text-align: center;
+    font-size: medium;
+}
+
+
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1rem 0rem 1rem;
+}
+
+.footer-info li {
+    list-style: none;
+    padding-bottom: 0.5rem;
+}
+
+
+.footer-links, .footer-contact{
+    text-align: initial;
+}
+
+
+.footer-logo{
+    width: 25%;
+    display: none;
+}
+
+.curs-info {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.footer-final {
+    margin: auto;
+    padding: 2rem 0;
+    text-align: center;
+    width: 80%;
+    border-top: 1px solid;
+}

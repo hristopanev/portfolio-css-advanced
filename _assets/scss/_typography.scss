@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,500i,600,600i,700,700i,800,800i&display=swap');
+
+
+/*Reset CSS*/
+*, *:before, *::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+body {
+    /* background-image: radial-gradient(circle, #c8c5d3, #c8c5da, #c7c5e1, #c5c5e8, #c3c5f0); */
+    background-image: radial-gradient(circle, #d1d8e2, #c9d6db, #c5d2d2, #c5cec9, #c7c9c2);
+
+}
+
+/* Box sizing */
+html {
+    box-sizing: border-box;
+    font: var(--font-size-body, 14px)/1.5 "Fina Sans", Georgia, serif;
+}
+
+table, form, select, option, input, textarea{
+    font: inherit;
+    background: var(--color-body-bgrd, #FFF);
+    color: var(--color-body-text, #000);
+}
+
+.site-title,
+h1, h2, h3, h4, h5, h6{
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    font-weight: normal;
+    font-family: Merriweather, serif;
+}
+
+h1{ font-size: 2.6em; }
+h2{ font-size: 2.0em; }
+h3{ font-size: 1.8em; }
+h4{ font-size: 1.4em; }
+h5{ font-size: 1.2em; }
+h6{ font-size: 1.0em; }
+
+a {
+    text-decoration: none;
+    color: var(--color-links-default, #0A0);
+}
+
+p, ul, ol{
+    padding-bottom: 1.5em;
+}
+ul, ol{
+     padding-left: 2em;
+}
+
+ul ul, ol ul, ul ol, ol ol{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+ol > li > ol > li {
+    list-style-type: lower-roman;
+}
+
+blockquote {
+    padding-left: 1rem;
+}
+
+blockquote .author {
+    font-style: italic;
+    text-align: right;
+    opacity: 0.5;
+}
+
+blockquote .author::before{
+    display: inline-block;
+    content: '\2014';
+    padding-right: 0.5em;
+}
+

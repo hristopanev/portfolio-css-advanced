@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/image/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{{ site.baseurl }}/image/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/site.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="{{ site.baseurl }}/scripts/main.js"></script>
+    <title>{{site.title}}</title>
+</head>
+<body>
+
+        <div class="site">
+
+            <input type="checkbox" id="toggle-nav" class="toggle-nav">
+            <header class="site-header">
+
+                {% if  page.home == 'true' %}
+                <h1 class="site-title">
+                    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+                </h1>
+                {% else %}
+                <p class="site-title">
+                    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+                </p>
+                {% endif %}
+                {% include navigation.html location = "header" %}
+
+                </header>
+
+
+            <main class="site-main">
+                <div class="background-img">
+                    <h1>Hristo Panev</h1>
+                </div>
+                {% if page.title %}
+                <h1>{{page.title}}</h1>
+                {% endif %}
+                {{content}}
+
+            </main>
+
+            <aside class="site-sidebar">
+            </aside>
+
+
+            {% include footer.html %}
+            
+        </div>
+    
+</body>
+</html>

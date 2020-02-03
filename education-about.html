@@ -1,0 +1,27 @@
+---
+layout: main
+title: Studium 
+icon: fa-user-graduate
+permalink: /education-about/
+order: 3
+---
+
+
+<section>
+    
+        <header class="education-about">
+            <h2>Meine Kurse</h2>
+        </header>
+    
+        <div class="content-studium">
+    
+            <ul>
+                {% for post in site.posts %}
+                    <li>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </li>
+                 {% endfor %}
+            </ul>
+    
+        </div>
+    </section>

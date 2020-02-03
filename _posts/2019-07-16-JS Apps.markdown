@@ -1,0 +1,29 @@
+---
+layout: main
+title:  "JS Apps"
+---
+
+w
+<table class="table-steel">
+<thead>
+<tr>
+<th>TOPIC</th>
+<th>HOURS</th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Course Intruction</td><td>3</td></tr>
+  <tr><td>Rest Services and Ajax</td><td>4</td></tr>
+  <tr><td>Asynchronous Programming</td><td>4</td></tr>
+  <tr><td>Remote Databases</td><td>4</td></tr>
+  <tr><td>Routing and Architecture</td><td>4</td></tr>
+  <tr><td>Templating</td><td>4</td></tr>
+  <tr><td>Webpack</td><td>4</td></tr>
+  <tr><td>Workshop: Single Page Application</td><td>4</td></tr>
+  <tr><td>JS for Front-End</td><td>4</td></tr>
+</tbody>
+</table>
+
+<div class="button-back">
+  <input type="button" value="Zurück" onclick="window.history.back()" /> 
+</div>
