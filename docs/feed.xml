@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="/portfolio/" rel="alternate" type="text/html" /><updated>2020-04-24T13:31:42+02:00</updated><id>/portfolio/feed.xml</id><title type="html">Portfolio</title><subtitle>My Portfolio&quot;</subtitle><entry><title type="html">Angular</title><link href="/portfolio/2020/01/01/Angular.html" rel="alternate" type="text/html" title="Angular" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>/portfolio/2020/01/01/Angular</id><content type="html" xml:base="/portfolio/2020/01/01/Angular.html">&lt;table class=&quot;table-steel&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="/portfolio/" rel="alternate" type="text/html" /><updated>2020-05-01T13:34:03+02:00</updated><id>/portfolio/feed.xml</id><title type="html">Portfolio</title><subtitle>My Portfolio&quot;</subtitle><entry><title type="html">VueJS</title><link href="/portfolio/2020/03/06/VueJS.html" rel="alternate" type="text/html" title="VueJS" /><published>2020-03-06T00:00:00+01:00</published><updated>2020-03-06T00:00:00+01:00</updated><id>/portfolio/2020/03/06/VueJS</id><content type="html" xml:base="/portfolio/2020/03/06/VueJS.html">&lt;table class=&quot;table-steel&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TOPIC&lt;/th&gt;
+&lt;th&gt;HOURS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;&lt;td&gt;Course Intruction&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Directives and Event Handling&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Componets&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Workshop: Componets&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Forms and Validations&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Workshop: Forms and Validations&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Filters, Mixins, HTTP&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;SPA and Routing&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Workshop: Authentication&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;State Management&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&quot;button-back&quot;&gt;
+  &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
+&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Directives and Event Handling4 Componets4 Workshop: Componets4 Forms and Validations4 Workshop: Forms and Validations4 Filters, Mixins, HTTP4 SPA and Routing4 Workshop: Authentication4 State Management4</summary></entry><entry><title type="html">Angular</title><link href="/portfolio/2020/01/01/Angular.html" rel="alternate" type="text/html" title="Angular" /><published>2020-01-01T00:00:00+01:00</published><updated>2020-01-01T00:00:00+01:00</updated><id>/portfolio/2020/01/01/Angular</id><content type="html" xml:base="/portfolio/2020/01/01/Angular.html">&lt;table class=&quot;table-steel&quot;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;TOPIC&lt;/th&gt;
@@ -156,7 +178,25 @@
 
 &lt;div class=&quot;button-back&quot;&gt;
   &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Advanced Functions4 Dom Manipulations4 Unit Testing and Modules4 JS Classes4 Object Composition4 Prototypes and Inheritance4 Desing Patterns and Best Practices4 Workshop: Landing Page4</summary></entry><entry><title type="html">HTML &amp;amp; CSS</title><link href="/portfolio/2019/05/16/HTML-&-CSS.html" rel="alternate" type="text/html" title="HTML &amp; CSS" /><published>2019-05-16T00:00:00+02:00</published><updated>2019-05-16T00:00:00+02:00</updated><id>/portfolio/2019/05/16/HTML%20&amp;%20CSS</id><content type="html" xml:base="/portfolio/2019/05/16/HTML-&amp;-CSS.html">&lt;table class=&quot;table-steel&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Advanced Functions4 Dom Manipulations4 Unit Testing and Modules4 JS Classes4 Object Composition4 Prototypes and Inheritance4 Desing Patterns and Best Practices4 Workshop: Landing Page4</summary></entry><entry><title type="html">JS Essentials</title><link href="/portfolio/2019/05/16/JS-Essentials.html" rel="alternate" type="text/html" title="JS Essentials" /><published>2019-05-16T00:00:00+02:00</published><updated>2019-05-16T00:00:00+02:00</updated><id>/portfolio/2019/05/16/JS%20Essentials</id><content type="html" xml:base="/portfolio/2019/05/16/JS-Essentials.html">&lt;table class=&quot;table-steel&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TOPIC&lt;/th&gt;
+&lt;th&gt;HOURS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;&lt;td&gt;Course Intruction&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Objects and DOM&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Arrays and Matrices&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Strings and RegExp&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;Exam preparation&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;button-back&quot;&gt;
+  &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
+&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Objects and DOM4 Arrays and Matrices4 Strings and RegExp4 Exam preparation4</summary></entry><entry><title type="html">HTML &amp;amp; CSS</title><link href="/portfolio/2019/05/16/HTML-&-CSS.html" rel="alternate" type="text/html" title="HTML &amp; CSS" /><published>2019-05-16T00:00:00+02:00</published><updated>2019-05-16T00:00:00+02:00</updated><id>/portfolio/2019/05/16/HTML%20&amp;%20CSS</id><content type="html" xml:base="/portfolio/2019/05/16/HTML-&amp;-CSS.html">&lt;table class=&quot;table-steel&quot;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;TOPIC&lt;/th&gt;
@@ -178,48 +218,4 @@
 
 &lt;div class=&quot;button-back&quot;&gt;
   &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 CSS &amp;amp; Typography4 CSS Box Model (non-attendance)4 Position &amp;amp; Float4 Flexbox4 Working with Forms4 Media Queries4 Workshop4 Design to Code - Demo Project4</summary></entry><entry><title type="html">JS Essentials</title><link href="/portfolio/2019/05/16/JS-Essentials.html" rel="alternate" type="text/html" title="JS Essentials" /><published>2019-05-16T00:00:00+02:00</published><updated>2019-05-16T00:00:00+02:00</updated><id>/portfolio/2019/05/16/JS%20Essentials</id><content type="html" xml:base="/portfolio/2019/05/16/JS-Essentials.html">&lt;table class=&quot;table-steel&quot;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;TOPIC&lt;/th&gt;
-&lt;th&gt;HOURS&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-  &lt;tr&gt;&lt;td&gt;Course Intruction&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Objects and DOM&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Arrays and Matrices&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Strings and RegExp&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Exam preparation&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;button-back&quot;&gt;
-  &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Objects and DOM4 Arrays and Matrices4 Strings and RegExp4 Exam preparation4</summary></entry><entry><title type="html">Java OOP</title><link href="/portfolio/2019/02/16/Java-OOP.html" rel="alternate" type="text/html" title="Java OOP" /><published>2019-02-16T00:00:00+01:00</published><updated>2019-02-16T00:00:00+01:00</updated><id>/portfolio/2019/02/16/Java%20OOP</id><content type="html" xml:base="/portfolio/2019/02/16/Java-OOP.html">&lt;table class=&quot;table-steel&quot;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;TOPIC&lt;/th&gt;
-&lt;th&gt;HOURS&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-  &lt;tr&gt;&lt;td&gt;Course Intruction&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Working With Abstraction&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Encapsulation&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
-  &lt;td&gt;Inheritance&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
-  &lt;td&gt;Interfaces and Abstraction&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
-  &lt;td&gt;Polymorphism&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Solid&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Reflection and Attributes&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Workshop&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Unit Testing&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;XML&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Test Driven Development&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Object Communication and Events&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;button-back&quot;&gt;
-  &lt;input type=&quot;button&quot; value=&quot;Zurück&quot; onclick=&quot;window.history.back()&quot; /&gt; 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 Working With Abstraction4 Encapsulation4 Inheritance4 Interfaces and Abstraction4 Polymorphism4 Solid4 Reflection and Attributes4 Workshop4 Unit Testing4 XML4 Test Driven Development4 Object Communication and Events4</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html">TOPIC HOURS Course Intruction3 CSS &amp;amp; Typography4 CSS Box Model (non-attendance)4 Position &amp;amp; Float4 Flexbox4 Working with Forms4 Media Queries4 Workshop4 Design to Code - Demo Project4</summary></entry></feed>

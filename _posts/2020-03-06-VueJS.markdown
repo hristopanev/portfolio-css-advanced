@@ -1,0 +1,29 @@
+---
+layout: main
+title:  "VueJS"
+---
+
+
+<table class="table-steel">
+<thead>
+<tr>
+<th>TOPIC</th>
+<th>HOURS</th>
+</tr>
+</thead>
+<tbody>
+  <tr><td>Course Intruction</td><td>3</td></tr>
+  <tr><td>Directives and Event Handling</td><td>4</td></tr>
+  <tr><td>Componets</td><td>4</td></tr>
+  <tr><td>Workshop: Componets</td><td>4</td></tr>
+  <tr><td>Forms and Validations</td><td>4</td></tr>
+  <tr><td>Workshop: Forms and Validations</td><td>4</td></tr>
+  <tr><td>Filters, Mixins, HTTP</td><td>4</td></tr>
+  <tr><td>SPA and Routing</td><td>4</td></tr>
+  <tr><td>Workshop: Authentication</td><td>4</td></tr>
+  <tr><td>State Management</td><td>4</td></tr>
+</tbody>
+</table>
+<div class="button-back">
+  <input type="button" value="Zurück" onclick="window.history.back()" /> 
+</div>
