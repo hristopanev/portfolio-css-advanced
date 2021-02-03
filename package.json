@@ -1,5 +1,5 @@
 {
-  "name": "Portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Jekyll theme by the best HTML & CSS Course",
   "main": "gulpfile.js",
@@ -15,17 +15,18 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/hristopanev/portfolio#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "child_process": "^1.0.2",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-exec": "^3.0.2",
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.12.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/hristopanev/portfolio/issues"
   }
 }
